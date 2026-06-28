@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "enterprise-employee-hub-client-side-solution",
+    "id": "7b9222b5-b649-4338-909c-6df4444e167d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "enterprise-employee-hub description"
+      },
+      "longDescription": {
+        "default": "enterprise-employee-hub description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "enterprise-employee-hub Feature",
+        "description": "The feature that activates elements of the enterprise-employee-hub solution.",
+        "id": "8612421a-7854-40cc-aaa8-12d7c32f9110",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/enterprise-employee-hub.sppkg"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.21.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "enterprise-employee-hub",
+    "libraryId": "7b9222b5-b649-4338-909c-6df4444e167d",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "enterprise-employee-hub",
+    "solutionShortDescription": "enterprise-employee-hub description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
